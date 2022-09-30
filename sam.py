@@ -1,0 +1,6 @@
+print("test"
+
+exec("ls")
+      
+      
+      
